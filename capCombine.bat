@@ -1,0 +1,2 @@
+python capCombine.py
+pause
